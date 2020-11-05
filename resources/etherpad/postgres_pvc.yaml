@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
-  name: example
+  name: postgresql
   namespace: etherpad
 spec:
   accessModes:
