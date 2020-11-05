@@ -66,4 +66,4 @@ spec:
       volumes:
       - name: postgresql-data
         persistentVolumeClaim:
-          claimName: postgresql
+          claimName: postgresqlpostgresql-6df558f94c-rtwsw
